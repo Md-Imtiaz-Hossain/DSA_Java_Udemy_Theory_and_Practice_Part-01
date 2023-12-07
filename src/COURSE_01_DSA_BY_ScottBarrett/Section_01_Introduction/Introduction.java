@@ -1,4 +1,4 @@
-package O1_DSA_BY_ScottBarrett.Section_01_Introduction;
+package COURSE_01_DSA_BY_ScottBarrett.Section_01_Introduction;
 
 public class Introduction {
     public static void main(String[] args) {
