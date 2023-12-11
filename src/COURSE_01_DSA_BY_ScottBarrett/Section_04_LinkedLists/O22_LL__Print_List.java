@@ -7,9 +7,8 @@ public class O22_LL__Print_List {
         new LinkedList_22(6);
         new LinkedList_22(8);
 
-        System.out.print("List: ");
+        System.out.println("List: ");
         linkedList_22.printList();
-
         linkedList_22.getHead();
         linkedList_22.getTail();
         linkedList_22.getLength();
@@ -18,9 +17,9 @@ public class O22_LL__Print_List {
 }
 
 class LinkedList_22 {
-    private Node_22 head;
-    private Node_22 tail;
-    private int length;
+    private final Node_22 head;
+    private final Node_22 tail;
+    private final int length;
 
     public LinkedList_22(int value) {
         Node_22 newNode = new Node_22(value);
