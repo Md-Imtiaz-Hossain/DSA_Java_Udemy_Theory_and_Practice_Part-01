@@ -1,4 +1,4 @@
-# Data_Structure_and_Algorithm_Java
+# DSA_Java_Udemy_Theory_and_Practice_Part-01
 
 # Course 01:
 https://www.udemy.com/course/data-structures-and-algorithms-java/
